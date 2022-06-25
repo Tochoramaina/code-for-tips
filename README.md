@@ -1,1 +1,1 @@
-# code-for-tips
+tips project
